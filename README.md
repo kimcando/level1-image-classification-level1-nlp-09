@@ -1,6 +1,7 @@
 # Boostcamp AI Level.1 P-stage : Mask Image Classfication
 > **Task** : Classify the person in the picture among 18 cateogires, which describe 'gender','age', 'well-mask-fit'
 
+> **Perosnal summary(by Soyeon Kim)** : [PDF](https://github.com/kimcando/level1-image-classification-level1-nlp-09/blob/main/KSY/personal_summary.pdf)
 ## Overview of the Project
 ### Goal
 * Classify the correct class for the given person in the image
